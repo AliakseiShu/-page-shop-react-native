@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cba58294-2b54-478e-a0e0-b8a8d2253df7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bank/app/firebase.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank/app/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/components/CategoryItems.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/components/Cotegories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/components/Popular.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/components/PopularItems.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/components/ProductItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/components/catigories.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/components/popularData.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shop/constans.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/first-project/components/Footer/Footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/first-project/components/Footer/menu.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/first-project/components/Header/Header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/first-project/components/Header/Notification.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/first-project/components/Header/Search.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/first-project/data/products.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/.idea/lesson1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/.expo-shared/assets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/.idea/my-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/App.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/assets/adaptive-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/assets/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+        <option value="TypeScript JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2DnHwx2voGzXRnNnb0NKxBqrBKI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="D:\it-incubator\react-native\first-project\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\it-incubator\react nativ\first-project\components\Header" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cba58294-2b54-478e-a0e0-b8a8d2253df7" name="Default Changelist" comment="" />
+      <created>1661328170895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661328170895</updated>
+      <workItem from="1661328171938" duration="612000" />
+      <workItem from="1661328960130" duration="289000" />
+      <workItem from="1661329270183" duration="5395000" />
+      <workItem from="1661342368158" duration="12621000" />
+      <workItem from="1661356027887" duration="4468000" />
+      <workItem from="1661365861840" duration="17000" />
+      <workItem from="1661434731578" duration="370000" />
+      <workItem from="1661444386899" duration="96000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1661333327353">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1661333327353" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1661444481839">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1661365877310" />
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1661444481839" />
+  </component>
+</project>
