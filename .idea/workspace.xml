@@ -2,17 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cba58294-2b54-478e-a0e0-b8a8d2253df7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bank/app/firebase.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bank/app/styles.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop/components/CategoryItems.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop/components/Cotegories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop/components/Header.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop/components/Popular.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop/components/PopularItems.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop/components/ProductItem.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop/components/catigories.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop/components/popularData.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../shop/constans.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../react nativ/first-project/components/Footer/Footer.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../react nativ/first-project/components/Footer/menu.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../react nativ/first-project/components/Header/Header.tsx" beforeDir="false" />
@@ -42,6 +31,18 @@
       <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/package.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/tsconfig.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../react nativ/lesson1/my-app/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank/app/firebase.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../bank/app/firebase.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bank/app/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../bank/app/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Header/Search.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header/Search.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/components/CategoryItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/components/CategoryItems.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/components/Cotegories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/components/Cotegories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/components/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/components/Popular.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/components/Popular.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/components/PopularItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/components/PopularItems.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/components/catigories.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/components/catigories.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/components/popularData.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/components/popularData.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop/constans.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../shop/constans.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -100,6 +101,7 @@
       <workItem from="1661365861840" duration="17000" />
       <workItem from="1661434731578" duration="370000" />
       <workItem from="1661444386899" duration="96000" />
+      <workItem from="1661453309975" duration="513000" />
     </task>
     <servers />
   </component>
@@ -111,6 +113,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1661333327353" />
+    <state x="393" y="0" key="CommitChangelistDialog2" timestamp="1661453556214">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="0" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1661453556214" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1661444481839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -3,9 +3,10 @@ import {Icon, Input, Stack} from "native-base";
 import {MaterialIcons} from "@expo/vector-icons";
 
 export const Search = () => {
-	const [show, setShow] = React.useState(false);
 	return (
-		<Stack space={4} w='90%' style={{backgroundColor: '#fff', borderRadius: 25}}>
+		<Stack
+			space={4} w='90%'
+			style={{backgroundColor: '#fff', borderRadius: 25}}>
 			<Input
 				InputLeftElement={
 					<Icon
